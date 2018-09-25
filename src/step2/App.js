@@ -20,12 +20,12 @@ class App extends Component {
       .then(response => response.json())
       .then(data => this.setState({ hits: data.hits }));
   }
-  componentWillMount() {
+ // componentWillMount() {
 
-  }
-  componentWillUnmount() {
+ // }
+ // componentWillUnmount() {
 
-  }
+ // }
 
   render() {
     const { hits } = this.state;
