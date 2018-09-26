@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "app3",
   "version": "0.1.0",
   "private": true,
@@ -7,6 +8,21 @@
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-redux": "^5.0.7",
+=======
+  "name": "react-redux",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "font-awesome": "^4.7.0",
+    "prop-types": "^15.6.2",
+    "react": "^16.5.2",
+    "react-bootstrap": "^0.32.4",
+    "react-dom": "^16.5.2",
+    "react-redux": "^5.0.7",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+>>>>>>> 4b904db2828b8a2d0efa0f6ccbe6301267b06952
     "react-scripts": "1.1.5",
     "redux": "^4.0.0"
   },
